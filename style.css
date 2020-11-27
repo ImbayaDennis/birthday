@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Sansita+Swashed:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: justify;
+    font-family: 'Indie Flower', cursive;
+    padding: 2rem;
+    line-height: 2rem;
+    font-size: large;
+    color: #ffffff;
+    background: linear-gradient(rgba(93, 46, 186, 0.9),rgba(173, 136, 247, 0.9)), url('./36175154-floral-abstract-pattern-of-gray-and-black-on-transparent-background.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Sansita Swashed', cursive;
+    color: #484848;
+    text-align: center;
+}
