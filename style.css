@@ -9,7 +9,7 @@
 body{
     text-align: justify;
     font-family: 'Indie Flower', cursive;
-    padding: 2rem;
+    padding: 1rem;
     line-height: 2rem;
     font-size: large;
     color: #ffffff;
@@ -19,8 +19,31 @@ body{
     background-size: cover;
 }
 
+::-webkit-scrollbar{
+    display: none;
+}
+
 h1, h2, h3, h4, h5{
     font-family: 'Sansita Swashed', cursive;
     color: #858585;
     text-align: center;
+}
+
+p{
+    margin: .5rem;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: .5rem;
+    margin: 1rem 0;
+    display: block;
+}
+
+.intro{
+    
+}
+
+.tale{
+    display: none;
 }
