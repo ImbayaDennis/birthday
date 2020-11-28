@@ -13,7 +13,7 @@ body{
     line-height: 2rem;
     font-size: large;
     color: #ffffff;
-    background: linear-gradient(rgba(93, 46, 186, 0.9),rgba(173, 136, 247, 0.9)), url('./36175154-floral-abstract-pattern-of-gray-and-black-on-transparent-background.jpg');
+    background: linear-gradient(rgba(93, 46, 186, 0.9),rgba(173, 136, 247, 0.9)), url('../imgs/36175154-floral-abstract-pattern-of-gray-and-black-on-transparent-background.jpg');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
